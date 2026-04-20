@@ -49,8 +49,16 @@ Script d'installation automatique pour configurer un terminal macOS from scratch
 
 ## Installation
 
+### One-liner
+
 ```bash
-git clone <ce-repo> && cd macos-zsh
+curl -fsSL https://raw.githubusercontent.com/0xwali/zsh-macos/main/setup.sh | bash
+```
+
+### Depuis le repo
+
+```bash
+git clone https://github.com/0xwali/zsh-macos.git && cd zsh-macos
 chmod +x setup.sh
 ./setup.sh
 ```
