@@ -25,8 +25,8 @@ fi
 
 # 2. Outils CLI modernes + Ghostty
 echo ">> Installation des outils CLI..."
-brew install eza bat fzf zoxide starship bun sshs
-brew install --cask ghostty
+brew install eza bat fzf zoxide starship bun sshs bundler-completion
+brew install --cask ghostty bunch
 
 # 3. Oh My Zsh
 if [ ! -d "$HOME/.oh-my-zsh" ]; then

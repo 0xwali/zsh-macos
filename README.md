@@ -32,6 +32,8 @@ Script d'installation automatique pour configurer un terminal macOS from scratch
 | [zoxide](https://github.com/ajeetdsouza/zoxide) | `cd` | Navigation intelligente (`z mon_dossier`) |
 | [Bun](https://bun.sh) | `node/npm` | Runtime JavaScript rapide |
 | [sshs](https://github.com/quantumsheep/sshs) | `ssh` | Interface TUI pour les hosts SSH |
+| [bundler-completion](https://github.com/mernen/completion-ruby) | - | Autocompletion pour Bundler |
+| [Bunch](https://bunchapp.co) | - | Automatisation d'apps macOS |
 
 ### Config Ghostty
 
